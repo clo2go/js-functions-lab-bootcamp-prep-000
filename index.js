@@ -13,3 +13,4 @@ function happyHolidayTo(holiday, name){
 
 console.log(happyHolidays());
 console.log(happyHolidaysTo('Alex'));
+console.log(happyHolidayTo('Cinco de Mayo', 'John'))

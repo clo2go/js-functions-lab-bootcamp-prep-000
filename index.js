@@ -18,3 +18,4 @@ function holidayCountdown(days, holiday){
 console.log(happyHolidays());
 console.log(happyHolidaysTo('Alex'));
 console.log(happyHolidayTo('Cinco de Mayo', 'John'))
+console.log(holidayCountdown(300, "Christmas"));
